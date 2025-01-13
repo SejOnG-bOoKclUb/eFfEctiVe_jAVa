@@ -12,7 +12,6 @@
 ## 발표 자료
 | 챕터                                                               | 발표자 |           발표 자료         |           질문           | 
 |:--|:--:|:--:|:--:|
-
 | 아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라                           |  호기  | [item1.pdf](https://github.com/user-attachments/files/18394777/item1.pdf) |  |
 | 아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라                          | 더마포 |  |  |
 | 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라                  |  석마  | [item3.pdf](https://github.com/user-attachments/files/18394739/item3.pdf) |  |

@@ -13,9 +13,9 @@
 | 챕터                                                               | 발표자 |           발표 자료         |           질문           | 
 |:--|:--:|:--:|:--:|
 | 아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라                           |  호기  | [item1.pdf](https://github.com/user-attachments/files/18394777/item1.pdf) |  |
-| 아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라                          | 더마포 |  |  |
+| 아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라                          | 더마포 | [item2.pdf](https://github.com/user-attachments/files/18394791/item2.pdf) |  |
 | 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라                  |  석마  | [item3.pdf](https://github.com/user-attachments/files/18394739/item3.pdf) |  |
-| 아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라                   |  더마포 |  |  |
+| 아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라                   |  더마포 | [item4.pdf](https://github.com/user-attachments/files/18394785/item4.pdf) |  |
 | 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라                   |  호기 | [item5.pdf](https://github.com/user-attachments/files/18394782/item5.pdf) |  |
 | 아이템 6. 불필요한 객체 생성을 피해라                                     |  석마  | [item6.pdf](https://github.com/user-attachments/files/18394741/item6.pdf) |  |
 

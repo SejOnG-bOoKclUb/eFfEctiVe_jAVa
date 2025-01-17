@@ -18,6 +18,9 @@
 | 아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라                   |  더마포 | [item4.pdf](https://github.com/user-attachments/files/18394785/item4.pdf) |  |
 | 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라                   |  호기 | [item5.pdf](https://github.com/user-attachments/files/18394782/item5.pdf) |  |
 | 아이템 6. 불필요한 객체 생성을 피해라                                     |  석마  | [item6.pdf](https://github.com/user-attachments/files/18394741/item6.pdf) |  |
+| 아이템 7. 다 쓴 객체 참조를 해제하라                                     |  더마포  |  |  |
+| 아이템 8. finalizer와 cleaner 사용을 피하라                            |  석마  |  |  |
+| 아이템 9. try-finally보다는 try-with-resources를 사용하라              |  석마  |  |  |
 
 
 

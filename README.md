@@ -20,7 +20,7 @@
 | 아이템 6. 불필요한 객체 생성을 피해라                                     |  석마  | [item6.pdf](https://github.com/user-attachments/files/18394741/item6.pdf) |  
 | 아이템 7. 다 쓴 객체 참조를 해제하라                                     |  더마포  | [item7.pdf](https://github.com/user-attachments/files/18450063/7.pdf)  |  
 | 아이템 8. finalizer와 cleaner 사용을 피하라                            |  석마  | [item 8.pdf](https://github.com/user-attachments/files/18450079/item.8.pdf)|  
-| 아이템 9. try-finally보다는 try-with-resources를 사용하라              |  호기  |  | 
+| 아이템 9. try-finally보다는 try-with-resources를 사용하라              |  호기  | [item9.pdf](https://github.com/user-attachments/files/18450145/item9.pdf) | 
 
 
 

@@ -21,6 +21,9 @@
 | 아이템 7. 다 쓴 객체 참조를 해제하라                                     |  더마포  | [item7.pdf](https://github.com/user-attachments/files/18450063/7.pdf)  |  
 | 아이템 8. finalizer와 cleaner 사용을 피하라                            |  석마  | [item 8.pdf](https://github.com/user-attachments/files/18450079/item.8.pdf)|  
 | 아이템 9. try-finally보다는 try-with-resources를 사용하라              |  호기  | [item9.pdf](https://github.com/user-attachments/files/18450145/item9.pdf) | 
+| 아이템 10. equals는 일반 규약을 지켜 재정의하라                           |  더마포  | [item10.pdf](https://github.com/user-attachments/files/18516269/10.eqauls.pdf) |
+| 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라                  |  호기  | |  
+| 아이템 12. toString을 항상 재정의하라                                  |  석마  |  | 
 
 
 

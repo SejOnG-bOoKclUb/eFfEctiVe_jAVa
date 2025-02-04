@@ -26,7 +26,6 @@
 | 아이템 12. toString을 항상 재정의하라                                  |  석마  | [item12.pdf](https://github.com/user-attachments/files/18530850/12.pdf) | 
 | 아이템 13. clone 재정의는 주의해서 진행하라                               |  석마  | [item13.pdf](https://github.com/user-attachments/files/18652516/item13.pdf) |
 | 아이템 14. Comparable을 구현할지 고려하라                                |  더마포 | [item14.pdf](https://github.com/user-attachments/files/18652591/14.Comparable.pdf) |
-
 | 아이템 15. 클래스와 멤버의 접근 권한을 최소화해라                             |  호기  | [item 15.pdf](https://github.com/user-attachments/files/18652541/item.15.pdf) | 
 
 

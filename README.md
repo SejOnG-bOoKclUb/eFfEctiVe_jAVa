@@ -22,11 +22,11 @@
 | 아이템 8. finalizer와 cleaner 사용을 피하라                            |  석마  | [item 8.pdf](https://github.com/user-attachments/files/18450079/item.8.pdf)|  
 | 아이템 9. try-finally보다는 try-with-resources를 사용하라              |  호기  | [item9.pdf](https://github.com/user-attachments/files/18450145/item9.pdf) | 
 | 아이템 10. equals는 일반 규약을 지켜 재정의하라                           |  더마포  | [item10.pdf](https://github.com/user-attachments/files/18516269/10.eqauls.pdf) |
-| 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라                  |  호기  | |  
+| 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라                  |  호기  | [item 11.pdf](https://github.com/user-attachments/files/18652539/item.11.pdf) |  
 | 아이템 12. toString을 항상 재정의하라                                  |  석마  | [item12.pdf](https://github.com/user-attachments/files/18530850/12.pdf) | 
 | 아이템 13. clone 재정의는 주의해서 진행하라                               |  석마  | [item13.pdf](https://github.com/user-attachments/files/18652516/item13.pdf) |
 | 아이템 14. Comparable을 구현할지 고려하라                                |  더마포 | |  
-| 아이템 15. 클래스와 멤버의 접근 권한을 최소화해라                             |  호기  | | 
+| 아이템 15. 클래스와 멤버의 접근 권한을 최소화해라                             |  호기  | [item 15.pdf](https://github.com/user-attachments/files/18652541/item.15.pdf) | 
 
 
 

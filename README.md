@@ -27,6 +27,9 @@
 | 아이템 13. clone 재정의는 주의해서 진행하라                               |  석마  | [item13.pdf](https://github.com/user-attachments/files/18652516/item13.pdf) |
 | 아이템 14. Comparable을 구현할지 고려하라                                |  더마포 | [item14.pdf](https://github.com/user-attachments/files/18652591/14.Comparable.pdf) |
 | 아이템 15. 클래스와 멤버의 접근 권한을 최소화해라                             |  호기  | [item 15.pdf](https://github.com/user-attachments/files/18652541/item.15.pdf) | 
+| 아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 이용하라       |  석마  | [item 16..pdf](https://github.com/user-attachments/files/18763345/item.16.pdf) |
+| 아이템 17. 변경을 최소화하라                                             |  더마포 |  |
+| 아이템 18. 상속보다는 컴포지션을 사용하라                                   |  호기  |  | 
 
 
 

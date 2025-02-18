@@ -30,6 +30,9 @@
 | 아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 이용하라       |  석마  | [item 16.pdf](https://github.com/user-attachments/files/18763345/item.16.pdf) |
 | 아이템 17. 변경을 최소화하라                                             |  더마포 |  [item 17.pdf](https://github.com/user-attachments/files/18763527/17.pdf)|
 | 아이템 18. 상속보다는 컴포지션을 사용하라                                   |  호기  | [item18.pdf](https://github.com/user-attachments/files/18763478/item18.pdf) | 
+| 아이템 20. 추상 클래스보다는 인터페이스를 우선하라                             |  더마포 | |
+| 아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라                          |   석마   | [item 21.pdf](https://github.com/user-attachments/files/18840263/item.21.pdf)|
+| 아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라                        |  호기  |  | 
 
 
 

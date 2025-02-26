@@ -32,7 +32,7 @@
 | 아이템 18. 상속보다는 컴포지션을 사용하라                                   |  호기  | [item18.pdf](https://github.com/user-attachments/files/18763478/item18.pdf) | 
 | 아이템 20. 추상 클래스보다는 인터페이스를 우선하라                             |  더마포 | [item20.pdf](https://github.com/user-attachments/files/18843102/20.pdf) |
 | 아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라                          |   석마   | [item 21.pdf](https://github.com/user-attachments/files/18840263/item.21.pdf)|
-| 아이템 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라         | 책임자 | pdf링크 |
+| 아이템 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라                     | 석마 | [item23.pdf](https://github.com/user-attachments/files/18979961/item23.pdf) |
 | 아이템 24. 멤버 클래스는 되도록 static으로 만들라                     | 책임자 | pdf링크 |
 | 아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라                   | 책임자 | pdf링크 |
 | 아이템 26. 로 타입은 사용하지 말라                                   | 책임자 | pdf링크 |

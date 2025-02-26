@@ -35,7 +35,6 @@
 | 아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라                          |   호기   | [item22.pdf](https://github.com/user-attachments/files/18979998/item22.pdf) |
 | 아이템 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라                     | 석마 | [item23.pdf](https://github.com/user-attachments/files/18979961/item23.pdf) |
 | 아이템 24. 멤버 클래스는 되도록 static으로 만들라                     | 더마포 |[item 24.pdf](https://github.com/user-attachments/files/18981565/24.static.pdf) |
-
 | 아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라                   | 호기 | [item25.pdf](https://github.com/user-attachments/files/18980008/item25.pdf) |
 | 아이템 26. 로 타입은 사용하지 말라                                   | 책임자 | pdf링크 |
 | 아이템 27. 비검사 경고를 제거하라                                   | 책임자 | pdf링크 |
